@@ -187,7 +187,6 @@ MainWindow::MainWindow(QWidget *parent)
     QWidget *tab2 = new QWidget;
     QVBoxLayout *tab2Layout = new QVBoxLayout(tab2);
 
-
     QScrollArea *scrollArea = new QScrollArea;
     QWidget *scrollContent = new QWidget;
     QVBoxLayout *scrollLayout = new QVBoxLayout(scrollContent);
